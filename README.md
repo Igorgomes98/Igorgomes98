@@ -19,17 +19,17 @@
 </div>
 <hr>
 <div>
-  <a target='_blank' href='https://www.facebook.com/igor.gomes.370515/'>
-    <img target="_blank" src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
+  <a href='https://www.facebook.com/igor.gomes.370515/' target='_blank'>
+    <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' target="_blank">
   </a>
-  <a target='_blank' href='https://www.instagram.com/igorgomes98/'>
-    <img target="_blank" src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
+  <a href='https://www.instagram.com/igorgomes98/' target='_blank'>
+    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' target="_blank">
   </a>
-  <a target='_blank' href='https://www.linkedin.com/in/igor-gomes-76b59a144/'>
-    <img target="_blank" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+  <a href='https://www.linkedin.com/in/igor-gomes-76b59a144/' target='_blank'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target="_blank">
   </a>
-  <a target='_blank' href='mailto:iagomes95@gmail.com'>
-    <img target="_blank" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+  <a href='mailto:iagomes95@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target="_blank">
   </a>
 </div>
  
