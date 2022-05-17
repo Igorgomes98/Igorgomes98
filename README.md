@@ -1,5 +1,3 @@
-### Olá! Eu sou o Igor Gomes
-
 <div>
   <a href='https://github.com/IgorGomesFATEC'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=IgorGomesFATEC&theme=gotham&show_icons=true&include_all_commits=true&count_private=true'/>
