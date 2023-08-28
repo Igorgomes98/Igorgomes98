@@ -1,8 +1,8 @@
 <div>
   <a href='https://github.com/IgorGomesFATEC'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=IgorGomesFATEC&theme=gotham&show_icons=true&include_all_commits=true&count_private=true'/>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=IgorGomesFATEC&theme=gotham&show_icons=true&include_all_commits=true&count_private=false'/>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGomesFATEC&layout=compact&langs_count=16&theme=gotham'/>
-    <!--<img height='180em' src='https://github-readme-stats.vercel.app/api/wakatime?username=igorgomes98&theme=gotham&range=all_time'/>-->
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/wakatime?username=igorgomes98&theme=gotham&range=all_time'/>
  </a>
 </div>
 <div style='display: inline-block'><br>
