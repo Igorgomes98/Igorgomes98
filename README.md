@@ -2,7 +2,7 @@
   <a href='https://github.com/IgorGomesFATEC'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=IgorGomesFATEC&theme=dracula&show_icons=true&include_all_commits=true&count_private=true'/>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGomesFATEC&layout=compact&langs_count=16&theme=dracula'/>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/wakatime?username=igorgomes98&theme=dracula&range=all_time'/>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/wakatime?username=igorgomes98&custom_title=Time%20Stats&hide_progress=false&theme=dracula&langs_count=10&layout=compact'/>
  </a>
 </div>
 <div style='display: inline-block'><br>
