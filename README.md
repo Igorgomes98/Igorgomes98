@@ -9,11 +9,14 @@
   <img align='center' alt='Igor-HTML' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align='center' alt='Igor-CSS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align='center' alt='Igor-JS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align='center' alt='Igor-TS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align='center' alt='Igor-ANGULAR' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align='center' alt='Igor-DOT' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />        
   <img align='center' alt='Igor-CSHARP' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align='center' alt='Igor-FLUTTER' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   <img align='center' alt='Igor-DART' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
   <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align='center' alt='Igor-MYSQL' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align='center' alt='Igor-FIREBASE' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 <hr>
